@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#  process_genbank.sh
+#  gc_01_process_genbank_protein.sh
 #
 #
 #  Created by Lieven Thorrez on 12/02/16.
 #  Appended and extended by Thomas in't Veld on 2016-02-27
-#   usage: ./process_genbank [species]
+#   usage: ./gc_01_process_genbank_protein [species]
 
 # make sure to exit (and shout) on error
 set -e

@@ -27,7 +27,7 @@ cd tmp
 infoseq ../"$species".gbk -nousa -nodatabase -noname -notype -noorganism -nodescription -outfile "$species"_infoseq.txt
 infoseq ../"$species".gbk -nousa -nodatabase -noname -notype -noorganism -columns N  -delimiter '|' -outfile "$species"_infoseq_R.txt
 
-Rscript ../../scripts/20170701_extract_transcript_number.R "$species"
+Rscript ../../scripts/gc_03_extract_transcript_number.R "$species"
 
 # clean up infoseq, switch around the order of the columns to get accession || gc % || length
 awk -F" " '{print $1}' "$species"_infoseq.txt > temp1_acc.txt
