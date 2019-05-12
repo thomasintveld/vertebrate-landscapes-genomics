@@ -11,8 +11,7 @@ This folder contains the scripts used for the extraction, transformation and mod
 
 We have provided run-throughs and tutorials for the three main method parts of our manuscript:
 
-- Calculating GC% and transcript length for the relevant genes [README_1_GC_content.md]
-- Calculating GARP and FYMINK percentages [README_2_GARP_FYMINK.md]
-- Calculating protein overlap percentages with Stretcher Matching [README_3_stretcher.md]
-
+- Calculating GC% and transcript length for the relevant genes [https://github.com/thomasintveld/vertebrate-landscapes-genomics/blob/master/scripts/README_1_GC_content.md](README_1_GC_content.md)
+- Calculating GARP and FYMINK percentages [https://github.com/thomasintveld/vertebrate-landscapes-genomics/blob/master/scripts/README_2_GARP_FYMINK.md](README_2_GARP_FYMINK.md)
+- Calculating protein overlap percentages with Stretcher Matching [https://github.com/thomasintveld/vertebrate-landscapes-genomics/blob/master/scripts/README_3_stretcher.md](README_3_stretcher.md)
 
