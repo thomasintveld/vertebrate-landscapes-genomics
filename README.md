@@ -6,7 +6,8 @@ This folder contains the scripts used for the extraction, transformation and mod
 Script contributors:
 - Thomas in't Veld (intveld at kuleuven.be), Corresponding Author for these scripts
 - Raf Huttener (raf.huttener at kuleuven.be)
-- Lieven Thorrez (lieven.thorrez at kuleuven.be).
+- Lieven Thorrez (lieven.thorrez at kuleuven.be)
+- Frans Schuit (frans.schuit at kuleuven.be).
 
 
 Apart from standard UNIX operating system tools, the scripts use the following open source programs:
