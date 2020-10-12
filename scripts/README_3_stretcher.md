@@ -65,8 +65,6 @@ To now match different species sequences against each other using Stretcher, we 
 - an input file with `accession | sequence | coded_by` columns as created in Step 1 (all saved in the `data` directory); one file per species that needs to be matched;
 - a reference frame file with one column per species to match, which defines the pair-wise accession numbers of protein expressions that need to be matched again each other (provided by earlier BLAST matching).
 
-[! note for RAF — do we have a good way to show reviewers how we got to these reference files?]
-
 As an example, let's match pairwise genes of Homo Sapiens, Gorilla Gorilla and Pan Paniscus against each other. (BASH code, run this in a UNIX terminal)
 
 ```
